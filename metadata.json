@@ -1,0 +1,8 @@
+{
+  "name": "Operación Matriz - Inteligencia Predictiva",
+  "description": "Videojuego educativo para el aprendizaje interactivo de la matriz de confusión y métricas de evaluación de modelos predictivos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
